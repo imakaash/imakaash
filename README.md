@@ -1,4 +1,4 @@
-![Cover Photo](cover.jpg)
+![Cover Photo](cover.jpeg)
 
 # 🌟 Akash Kumar Yadav: A Data Scientist's Journey
 
