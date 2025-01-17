@@ -4,7 +4,7 @@
 
 ## 🛣️ From Bangalore to Trier: A Tale of Curiosity and Innovation
 
-Namaste! I'm Akash Kumar Yadav, a data scientist with a passion for solving puzzles and building innovative solutions. My journey began in Bangalore, the Silicon Valley of India, where my childhood curiosity for problem-solving laid the foundation for my future in data-driven decision-making.
+Hello and Namaste! I'm Akash Kumar Yadav, a data scientist passionate about solving puzzles and building innovative solutions. My journey began in Bangalore, the Silicon Valley of India, where my childhood curiosity for problem-solving laid the foundation for my future in data-driven decision-making.
 
 ## 🧠 The Analytical Mind
 
@@ -12,7 +12,7 @@ As a kid, I had a knack for solving puzzles and building things. This natural in
 
 ## 🌍 A Global Perspective
 
-My thirst for knowledge and new experiences led me from the bustling streets of Bangalore to the charming city of Trier, Germany. Here, I'm pursuing my M.Sc. in Data Science, expanding my horizons both academically and culturally. This journey has allowed me to explore over 20 countries, each adding a unique perspective to my worldview and approach to problem-solving
+My thirst for knowledge and new experiences led me from the bustling streets of Bangalore to the charming city of Trier, Germany. Having pursued my M.Sc. in Data Science, I have expanded my academic and cultural horizons. This journey has allowed me to explore over 20 countries, each adding a unique perspective to my worldview and approach to problem-solving
 
 ## 💼 Professional Adventures
 
@@ -20,11 +20,11 @@ My career has been a thrilling ride across diverse industries and roles:
 
 ### 🏭 BASF: Enhancing Analytical Capabilities
 
-At BASF, I've been instrumental in setting up the Data Lab, leveraging advanced technologies to boost consultants' analytical capabilities. From automating log extraction to implementing LLMs for sentiment analysis, I've been at the forefront of innovation
+At BASF, I've been instrumental in setting up the Data Lab, leveraging advanced technologies to boost consultants' analytical capabilities. From automating plant log extraction via APIs to implementing summarization and sentiment analysis via LLMs to identify issues, I've been at the forefront of innovation
 
 ### 🛒 Amazon: Streamlining Business Intelligence
 
-During my internship at Amazon, I developed dashboards that automated pricing comparisons, saving 200 hours half-yearly. My work in creating ETL pipelines and business reports significantly reduced team workload
+During my internship at Amazon, I developed dashboards that automated pricing comparisons, saving 200 hours half-yearly. My work in creating ETL pipelines and business reports significantly reduced team's workload
 
 ### 💼 EY and Landmark Group: Data-Driven Solutions
 
@@ -32,7 +32,7 @@ At EY and Landmark Group, I tackled supply chain operations and customer value m
 
 ## 🎓 Continuous Learning
 
-My journey in data science is ongoing. Currently pursuing my M.Sc. in Data Science at Universität Trier, I'm diving deep into advanced statistical analysis, machine learning techniques, and big data analytics
+My journey in data science is ongoing. Having completed my M.Sc. in Data Science at Universität Trier, I'm diving deep into advanced statistical analysis, machine learning techniques, and big data analytics
 
 ## 🌠 Beyond the Data
 
@@ -46,4 +46,4 @@ When I'm not immersed in data, you'll find me:
 
 ## 🚀 Looking Ahead
 
-As I continue to challenge myself and innovate in the world of data science, I'm excited about the possibilities that lie ahead. Whether it's developing cutting-edge machine learning models or finding new ways to visualize complex data, I'm always ready for the next big challenge.Let's connect and explore how we can leverage data to drive innovation and make informed decisions!
+As I continue to challenge myself and innovate in the world of data science, I'm excited about the possibilities that lie ahead. Whether it's developing cutting-edge machine learning models or finding new ways to visualize complex data, I'm always ready for the next big challenge. Let's connect and explore how we can leverage data to drive innovation and make informed decisions!
